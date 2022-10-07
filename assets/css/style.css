@@ -1,0 +1,104 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+
+
+}
+
+header,
+h1 {
+
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+    font-weight: 500;
+    background-color: black;
+    font-size: 59px;
+
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+}
+
+h3{
+    color: #ffffff;
+    text-align: center;
+    font-weight: 300;
+    
+}
+footer{
+background-color: #1E1A13;
+    padding: 20px;
+    
+}
+.container {
+    margin: auto;
+    width: 80%;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.img1 {
+    vertical-align: middle;
+}
+
+.divtext {
+    text-align: center;
+padding-bottom: 40px;
+padding-top: 20px;
+}
+
+.parrafo1 {
+    text-align: left;
+    color: #ffffff;
+    padding-right: 40px;
+    vertical-align: middle;
+    font-size: 19px;
+    font-weight: 300;
+    width: 95vh;
+    display: inline-block;
+}
+
+#caracteristicas {
+    background-color: #1E1A13;
+    padding: 40px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+i {
+    color: #ffffff;
+    font-size: 50px;
+}
+
+.ojo,
+.pacifica,
+.cambio {
+    display: inline-block;
+    font-weight: 300;
+    font-size: 29px;
+    width: 20%;
+    padding: 40px;
+}
+
+.caract-cont {
+    text-align: center;
+}
+
+#fotos_iguanas {
+    padding-top: 40px;
+padding-bottom: 80px;
+    
+
+}
+
+img{
+    height: 30vh;
+padding-top: 40px;
+padding-left: 20px;}
