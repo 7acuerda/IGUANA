@@ -37,6 +37,13 @@ background-color: #1E1A13;
     padding: 20px;
     
 }
+main {
+background-image: url(/assets/img/bg-header.jpg);    
+background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20%;
+}
+
 .container {
     margin: auto;
     width: 80%;
